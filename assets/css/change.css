@@ -1,0 +1,23 @@
+header.major> :last-child,
+#header {
+    border-bottom: solid 5px #32cd32;
+}
+
+input[type="submit"],
+input[type="reset"],
+input[type="button"],
+button,
+.button {
+    color: #32cd32 !important;
+    box-shadow: inset 0 0 0 2px #32cd32;
+}
+
+a,
+.features article .icon:before,
+ul.contact li:before {
+    color: #32cd32;
+}
+
+#header .logo {
+    font-size: 28px;
+}
